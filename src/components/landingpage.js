@@ -33,13 +33,13 @@ class Landing extends Component {
                                 </a>
 
                                 {/* FreeCodeCamp */}
-                                <a href="https://www.hackerrank.com/vichinyan_daniel" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-free-code-camp" aria-hidden="true" />
+                                <a href="https://www.facebook.com/profile.php?id=100000774556170" target="_blank" rel="noopener noreferrer">
+                                    <i className="fa fa-facebook-square" aria-hidden="true" />
                                 </a>
 
                                 {/* YouTube */}
-                                <a href="https://www.hackerrank.com/vichinyan_daniel" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-youtube-square" aria-hidden="true" />
+                                <a href="https://www.instagram.com/danielvichinyan" target="_blank" rel="noopener noreferrer">
+                                    <i className="fa fa-instagram" aria-hidden="true" />
                                 </a>
                             </div>
                         </div>
