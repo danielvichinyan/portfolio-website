@@ -19,6 +19,17 @@
   display: flex;
 }
 
+.projects-grid card:hover {
+  opacity: 0.7;
+}
+
+/* resume page */
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
 /* contact page */
 .contact-body {
   margin: auto;
